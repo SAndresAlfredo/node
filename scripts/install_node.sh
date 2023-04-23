@@ -28,7 +28,7 @@ echo "PHPCoin: download node"
 echo "==================================================================================================="
 mkdir $NODE_DIR
 cd $NODE_DIR
-git clone https://github.com/phpcoinn/node .
+git clone https://github.com/SAndresAlfredo/node.git .
 
 echo "PHPCoin: Configure apache"
 echo "==================================================================================================="
