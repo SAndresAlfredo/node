@@ -1,6 +1,6 @@
 #!/bin/bash
 # setup node on ubuntu server 21.04, 20.04, 18.04
-# one liner: curl -s https://raw.githubusercontent.com/phpcoinn/node/main/scripts/install_node.sh | bash
+# one liner: curl -s https://github.com/SAndresAlfredo/node/raw/main/scripts/install_node.sh | bash
 
 echo "PHPCoin node Installation"
 echo "==================================================================================================="
