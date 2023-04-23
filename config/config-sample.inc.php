@@ -131,16 +131,16 @@ $_config['log_verbosity'] = 0;
  * Miner config
  */
 $_config['miner']=false;
-$_config['miner_public_key']="";
-$_config['miner_private_key']="";
+$_config['PZ8Tyr4Nx8MHsRAGMpZmZ6TWY63dXWSCyeUj13BSWP7xfiUbL8VgRVifdXtZP7NAb7hi7UgS2t5EyoyhKutdUc4aQ635GGiVRqsLbEqLFpPYxWzL6uSnkEtx']="";
+$_config['Lzhp9LopCKF9PSo7LXcuFyn4AaKL9PhaEHRMdt1aUHURksAFBHRg3EirL4maqYLURhvnzYBYcddB4tkjh9XNQCYXr6sWK4yeiWENFgDNHuWtT1a1hw19zfDdPTWGK5BdiSYz6Ww3YKrPPkhRE8TPRfQrYCj3aKrAt']="";
 $_config['miner_cpu']=0;
 
 /**
  * Generator config
  */
 $_config['generator']=false;
-$_config['generator_public_key']="";
-$_config['generator_private_key']="";
+$_config['PZ8Tyr4Nx8MHsRAGMpZmZ6TWY63dXWSCyeUj13BSWP7xfiUbL8VgRVifdXtZP7NAb7hi7UgS2t5EyoyhKutdUc4aQ635GGiVRqsLbEqLFpPYxWzL6uSnkEtx']="";
+$_config['Lzhp9LopCKF9PSo7LXcuFyn4AaKL9PhaEHRMdt1aUHURksAFBHRg3EirL4maqYLURhvnzYBYcddB4tkjh9XNQCYXr6sWK4yeiWENFgDNHuWtT1a1hw19zfDdPTWGK5BdiSYz6Ww3YKrPPkhRE8TPRfQrYCj3aKrAt']="";
 
 /**
  * Allow web admin of node
@@ -151,9 +151,9 @@ $_config['admin_password']='';
 /**
  * Allow wallet app on node
  */
-$_config['wallet']=false;
-$_config['wallet_public_key']="";
-$_config['wallet_private_key']="";
+$_config['PkL6LGvyGiER1G2hqc9vReWXhh32SmCg9g']=false;
+$_config['PZ8Tyr4Nx8MHsRAGMpZmZ6TWY63dXWSCyeUj13BSWP7xfiUbL8VgRVifdXtZP7NAb7hi7UgS2t5EyoyhKutdUc4aQ635GGiVRqsLbEqLFpPYxWzL6uSnkEtx']="";
+$_config['Lzhp9LopCKF9PSo7LXcuFyn4AaKL9PhaEHRMdt1aUHURksAFBHRg3EirL4maqYLURhvnzYBYcddB4tkjh9XNQCYXr6sWK4yeiWENFgDNHuWtT1a1hw19zfDdPTWGK5BdiSYz6Ww3YKrPPkhRE8TPRfQrYCj3aKrAt']="";
 
 /**
  * Masternode configuration
